@@ -1,0 +1,14 @@
+client/weight-tracker/node_modules/
+server/node_modules/
+client/weight-tracker/.expo/
+npm-debug.*
+*.jks
+*.p8
+*.p12
+*.key
+*.mobileprovision
+*.orig.*
+client/weight-tracker/web-build/
+
+# macOS
+.DS_Store
